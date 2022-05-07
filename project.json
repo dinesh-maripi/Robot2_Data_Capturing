@@ -1,6 +1,6 @@
 {
-  "name": "Robot2_DataCapturing",
-  "description": "A simple data capturing project",
+  "name": "Robot2_Data_Capturing",
+  "description": "parallel data capturing from web browser & desktop application",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
